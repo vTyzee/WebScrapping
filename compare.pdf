@@ -1,0 +1,27 @@
+JSON
+
+  "1": [
+    {
+      "title": "Tipping the Velvet",
+      "price": "Â£53.74",
+      "availability": true,
+      "rating": 1,
+      "product_page_url": "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+      "image_url": "http://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+      "category": "Historical Fiction",
+      "upc": "90fa61229261140a"
+    },
+
+
+XML
+    <in_stock>
+    <book>
+      <title>A Light in the Attic</title>
+      <price>Â£51.77</price>
+      <availability>True</availability>
+      <rating>3</rating>
+      <product_page_url>http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html</product_page_url>
+      <image_url>http://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg</image_url>
+      <category>Poetry</category>
+      <upc>a897fe39b1053632</upc>
+    </book>
